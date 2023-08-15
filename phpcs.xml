@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="MyProject">
+    <description>My Project Coding Standard</description>
+    <file>./src</file>
+    <file>./tests</file>
+</ruleset>
